@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analyst and Data Science
 - 🌱 I’m currently learning Data Analyst,Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
+- 📫 How to reach me : linkedin.com/in/sanjeev-gupta-a7611a1b9
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "Data scientists have a favorite joke: Why did the data analyst break up with their spreadsheet? Because they found someone more 'Excel'-ent! 😄 #DataHumor"
 

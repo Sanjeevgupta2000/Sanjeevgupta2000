@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Gupta</h1>
-<h3 align="center">👀 I’m interested in Data Analyst and Data Science</h3>
+<h3 align="center">👀 I’m interested in Gen AI and Data Science</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZLHL_ntTdpgfPWj70u3EmqNtM9nmE3ZKwoQ&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeevgupta2000&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeevgupta2000" /> </p>
 
 - pronouns **he/him**
 
-- 🌱 I’m currently learning **Data Analyst,Data Science and Machine Learning**
+- 🌱 I’m currently learning **Gen AI,Prompt Engineering,Data Science and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Projects**
 

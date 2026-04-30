@@ -44,14 +44,9 @@ Git | GitHub | VS Code | Jupyter Notebook
 
 ---
 
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
----
-
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/sanjeev-gupta-a7611a1b9/)
+[![LinkedIn] https://www.linkedin.com/in/sanjeev-gupta-a7611a1b9/
 
 
 ---

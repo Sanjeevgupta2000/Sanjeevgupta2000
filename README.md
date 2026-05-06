@@ -46,7 +46,7 @@ Git | GitHub | VS Code | Jupyter Notebook
 
 ## 🌐 Connect With Me
 
-[![LinkedIn] https://www.linkedin.com/in/sanjeev-gupta-a7611a1b9/
+[LinkedIn] https://www.linkedin.com/in/sanjeev-gupta-a7611a1b9/
 
 
 ---

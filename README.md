@@ -6,7 +6,7 @@
 ---
 
 ## 🧠 About Me
-- 🔭 Building Generative AI applications using LLMs  
+- 🔭 Building Generative AI applications using LLMs
 - 🌱 Learning advanced GenAI (RAG, Agents, Fine-tuning)  
 - 💡 Passionate about solving real-world problems using AI
 - 🎯 Goal: Become a top GenAI Engineer  

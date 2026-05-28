@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanjeev Gupta
 
-🚀 Generative AI Engineer | BCA Graduate (Panjab University, 2022)  
+🚀 Generative AI Engineer | BCA Graduate (Panjab University, 2022)
 📍 India  
 
 ---

@@ -4,7 +4,7 @@
 
 I build practical Generative AI applications with large language models, retrieval-augmented generation, multi-agent workflows, and clean user-facing interfaces. My focus is on creating reliable AI systems that can search, reason over documents, automate research, and support real business workflows.
 
-I am actively looking for opportunities as a **Generative AI Engineer**, **AI Engineer**, **LLM Engineer**, or **Applied AI Developer**.
+I am actively looking for opportunities as a **Generative AI Engineer**, **AI Engineer**, **LLM Engineer**, or **AI Researcher**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjeev%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Sanjeev-gupta-a7611a1b9)
 [![GitHub](https://img.shields.io/badge/GitHub-Sanjeevgupta2000-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjeevgupta2000)

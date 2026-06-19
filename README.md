@@ -88,7 +88,7 @@ Key highlights:
 
 ## Experience
 
-### Data Science Intern
+### AI & Data Science Intern
 
 **2023 - 2024**
 
